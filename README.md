@@ -7,7 +7,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 ## Dataset Link Download:-
 - <a href= "https://docs.google.com/spreadsheets/d/1BT-2QF_oYhY8VqCDVgtDReDMK6LhOdix/edit?gid=1312948665#gid=1312948665"> DataSet</a>
 
-## Sample Questions:- 
+## Project Questions:- 
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
 3. Who purchased more men or women in 2022?
@@ -17,11 +17,14 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?
 
-## Sample Insights:-
+## Project Insights:-
 1. Women are more likely to buy compared to men (~65%).
 2. Maharashtra, karnataka and Uttar Pradesh are the top 3 states (~35%).
 3. Adult age group (30-49 yrs) is max contributing (~50%).
 4. Amazon, Flipkart and Myntra channels are max contributing (~80%).
+
+## Sample of Dashboard:-
+![Screenshot 2024-08-27 121123](https://github.com/user-attachments/assets/c34ed02f-d173-46b2-ae06-cb82b0e2d923)
    
 ## Final Conclusion to improve Vrinda store sales:-
  Target `*women*` customers of age group `*(30-49 yrs)*` living in `*Maharashtra, Karnataka and Uttar Pradesh*` by showing adds/offers/coupons available on 
