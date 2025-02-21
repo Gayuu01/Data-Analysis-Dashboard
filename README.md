@@ -24,8 +24,8 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 4. Amazon, Flipkart and Myntra channels are max contributing (~80%).
 
 ## Sample of Dashboard:-
-![Screenshot 2024-08-27 121123](https://github.com/user-attachments/assets/c34ed02f-d173-46b2-ae06-cb82b0e2d923)
-   
+![Screenshot 2025-02-21 160751](https://github.com/user-attachments/assets/b188d0cf-9ee7-4c41-a894-6ce080cfa3a9)
+  
 ## Final Conclusion to improve Vrinda store sales:-
  Target `*women*` customers of age group `*(30-49 yrs)*` living in `*Maharashtra, Karnataka and Uttar Pradesh*` by showing adds/offers/coupons available on 
  `*Amazon,Flipkart and Myntra*`.
